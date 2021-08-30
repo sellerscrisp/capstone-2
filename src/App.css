@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;500&display=swap');
+
+textarea:focus,
+input:focus,
+input {
+  outline: none;
+  border-width: 2px;
+}
+
+body {
+  background-color: #0B0E11 !important;
+}
