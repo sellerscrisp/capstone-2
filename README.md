@@ -4,3 +4,16 @@ Build out a web app that accurately details information on numerous stocks and E
 ## Installation
 1. `npm install`
 2. `npm start`
+
+## Technologies Used
+- React
+- Express
+- MongoDB
+- Finnhub API
+- Tradingview charting framework
+
+## Features
+- Allows for the searching of stocks by name/ticker, displaying relevant information about it
+- Per each stock, displays an interactive chart (using Tradingview's charting framework)
+- Sign up for an account and to create a personal profile page displaying stocks you add to your watchlist
+
